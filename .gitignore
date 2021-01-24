@@ -4,3 +4,8 @@
 
 # Dynamic plugins .dll
 bin/
+
+# Pip files
+.vscode/
+__pycache__/
+tests/
