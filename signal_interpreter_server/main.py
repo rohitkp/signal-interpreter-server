@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-
-from routes import signal_interpreter_app
+from signal_interpreter_server.routes import signal_interpreter_app
 
 """
     Enrty point to application
